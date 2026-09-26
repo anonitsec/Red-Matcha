@@ -2,13 +2,13 @@
 
 Sanitized case studies and sample deliverables demonstrating our approach.
 
-**Client engagements are NDA-bound** — anything published here is either fully
+**Client engagements are NDA-bound.** Anything published here is either fully
 redacted, anonymized, or drawn from authorized public research. No client name,
 host, credential, or sensitive value appears in this repository.
 
 | Case study | Type | Standards | Summary |
 | --- | --- | --- | --- |
-| _pending_ | — | — | — |
+| _pending_ | TBD | TBD | TBD |
 
 <!--
 Per case study, add engagements/<slug>/README.md with:

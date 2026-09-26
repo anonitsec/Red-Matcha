@@ -5,7 +5,7 @@ reported through vendor PSIRT, CNA, or GHSA channels.
 
 | ID | Product / Vendor | Class (CWE) | Severity | Advisory |
 | --- | --- | --- | --- | --- |
-| _pending_ | — | — | — | — |
+| _pending_ | TBD | TBD | TBD | TBD |
 
 <!--
 Add one row per disclosure, newest first. For each, add a folder
